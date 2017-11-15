@@ -4,9 +4,12 @@
 ## **Algorithms**
 - [Introuction to Algorithms](http://is.ptithcm.edu.vn/~tdhuy/Programming/Introduction.to.Algorithms.pdf)
 
+### JavaScript Concept Resources
+- [Design Patterns](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+
 ## **Development**
 
-### Javascript 
+### JavaScript 
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [Learn You Node](https://github.com/workshopper/learnyounode)
 
